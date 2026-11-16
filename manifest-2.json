@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "AI 기반 학습 문제 풀이 앱",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ai-study",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ai-study",
+  "start_url": "/ai-study/",
+  "theme_color": "#ffffff"
+}
